@@ -3,4 +3,7 @@ First GitHub try out
 
 Hey!
 
-I'm me and I like code.
+Steve is the most powerful coding entity,
+it's also a purple aurora borealis...
+
+I didn't even know.
